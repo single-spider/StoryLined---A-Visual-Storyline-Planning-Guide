@@ -1,1 +1,1 @@
-# StoryLined---A-Visual-Storyline-Planning-Guide
+# StoryLined-A Visual Storyline Planning & Plotting Tool
