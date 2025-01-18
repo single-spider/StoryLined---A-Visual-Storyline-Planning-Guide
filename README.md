@@ -38,6 +38,8 @@ StoryLined is a visual tool designed for writers, game designers, and storytelle
 
 ## Usage
 
+![Alt text](images/demo.png)
+
 ### Basic Navigation
 
 -   **Add Main Plot Point:** Click the "Add Main Plot Point" button to add a new main plot point to the current arc.
